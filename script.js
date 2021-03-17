@@ -1,0 +1,1 @@
+document.body.innerHTML = '<h1>Git test Javascript</h1>'
